@@ -9,6 +9,6 @@
 	"author": "Fedor Leschinsky",
 	"license": "MIT",
 	"dependencies": {
-		"imba": "^1.4.2"
+		"imba": "github:unicow/imba"
 	}
 }
