@@ -1,5 +1,5 @@
 {
-	"name": "imba-parcel-plugin",
+	"name": "parcel-plugin-imba",
 	"version": "0.1.2",
 	"main": "index.js",
 	"repository": {
